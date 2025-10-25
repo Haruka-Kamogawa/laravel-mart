@@ -1,0 +1,255 @@
+body {
+  background-color: #fffffe;
+  font-family: 'メイリオ', 'Meiryo', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.11px;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.13px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.04px;
+}
+
+big {
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.08px;
+}
+
+caption {
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.08px;
+}
+
+label {
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #2b2c34;
+}
+
+.login-input {
+  border-radius: 2px;
+  border: solid 1px #b2b2b2;
+  background-color: #ffffff;
+}
+
+.check-label {
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #2b2c34;
+}
+
+.require-input-label {
+  border-radius: 1px;
+  background-color: #e2001b;
+}
+
+.require-input-label-text {
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.submit-button {
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  background-color: #6246ea;
+}
+
+.submit-button:hover {
+  border: 1px solid #6246ea;
+  background-color: #ffffff;
+  color: #6246ea;
+} 
+
+.login-text {
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6246ea;
+  }
+
+.header-container {
+  box-shadow: 0 1px 1px 0 rgba(3, 3, 3, 0.1);
+  background-color: #2b2c34;
+}
+
+.header-search-input {
+  border: solid 1px #e5e5e5;
+}
+
+.header-search-button {
+  background-color: #6246ea;
+}
+
+.header-search-button:hover {
+  border: 1px solid #fff;
+} 
+
+.header-search-icon {
+  color: #ffffff;
+}
+
+.footer {
+  background-color: #2b2c34;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+.navbar-brand {
+  color: #ffffff;
+}
+
+.header-fav-icon {
+  color: #191919;
+}
+
+.header-shoppingcart-icon {
+  color: #ffffff;
+}
+
+.favorite-button {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.text-favorite {
+  color: #6246ea;
+}
+
+.sidebar-category-label {
+  width: 70%;
+  height: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #2b2c34;
+}
+
+.sidebar-category-label:hover {
+  /* background-color: rgba(100, 100, 100, .5); */
+  text-decoration: underline;
+}
+
+.review-score-color {
+  color: #6246ea;
+}
+
+.review-score-color:focus {
+  color: #6246ea;
+}
+
+.img-recommend {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.img-products {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.img-show {
+  width: 100%;
+  height: 330px;
+  object-fit: cover;
+}
+
+.img-cart {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.img-cart-history {
+  width: 90%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.sortable {
+  text-decoration: none;
+}
+.sortable:hover {
+  text-decoration: underline;
+}
+
+.pagination .page-link {
+  color: #6246ea;
+}
+
+.pagination .active .page-link {
+  background-color: #6246ea;
+  border-color: #6246ea;
+  color: white;
+}
+
+.page-item {
+  margin: 0 3px;
+}
+
+.favorite-img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
